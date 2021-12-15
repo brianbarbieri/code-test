@@ -35,6 +35,8 @@ In the example above, the changes are as follows:
 263 (increased)
 In this example, there are 7 measurements that are larger than the previous measurement.
 
+For this question create a notebook and solv the following questions:
+
 How many measurements are larger than the previous measurement?
 
 Can you also solve it with only vectorization methods?

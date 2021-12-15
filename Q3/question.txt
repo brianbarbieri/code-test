@@ -14,4 +14,4 @@ The dataset contains the following columns:
 The main goal of this question is the create a regression model that predicts the median house value of a house. 
 Please split up the dataset in a 70/30 train/test ratio.
 There is no good or wrong answer for this question. 
-So please take your time and come up with different methods to tackle this problem.
+So please take your time and come up with different methods to tackle this problem in the "solver.ipynb" notebook.
