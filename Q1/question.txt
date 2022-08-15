@@ -35,6 +35,4 @@ In this example, there are 7 measurements that are larger than the previous meas
 
 For this question create a notebook and solve the following questions using the content of "input.txt" as your input:
 
-How many measurements are larger than the previous measurement?
-
-Can you also solve it with only vectorization methods?
+How many measurements are larger than the previous measurement? Can you solve the problem with only vectorization methods(Pandas/Numpy)?
