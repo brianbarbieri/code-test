@@ -1,8 +1,9 @@
 As you may know at LetsGrow we make yield predictions for greenhouse growers. 
 A grower asked you to also make a yield prediction model for them. His dataset contains the following variables:
 
-- temperature 
-- irradiation
-- fruit set
+- Average day temperature (C)
+- irradiation sum (Kj/m2)
+- fruit set (fruits/m2)
+- production (kg/m2)
 
 He asks you what the RSME would be of a model trained on his dataset.
